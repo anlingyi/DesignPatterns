@@ -340,8 +340,8 @@ public class CFClient {
 #### 缺点
 * 过度的使用装饰模式会使程序变得更加复杂。
 
-## 参考
-* 《设计模式之禅》
-
 ## 资源
 * [源码](https://github.com/anlingyi/DesignPatterns/tree/master/src/cn/xeblog/design/patterns/decorator)
+
+## 参考
+* 《设计模式之禅》
