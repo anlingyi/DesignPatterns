@@ -1,4 +1,4 @@
-package cn.xeblog.design.patterns.decorator;
+package cn.xeblog.design.patterns.decorator.code;
 
 /**
  * 武器装饰类

@@ -1,4 +1,4 @@
-package cn.xeblog.design.patterns.decorator;
+package cn.xeblog.design.patterns.decorator.code;
 
 /**
  * cf客户端 <装饰模式>

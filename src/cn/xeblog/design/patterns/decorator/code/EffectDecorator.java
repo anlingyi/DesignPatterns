@@ -1,4 +1,4 @@
-package cn.xeblog.design.patterns.decorator;
+package cn.xeblog.design.patterns.decorator.code;
 
 /**
  * 效果装饰类

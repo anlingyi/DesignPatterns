@@ -1,4 +1,4 @@
-package cn.xeblog.design.patterns.decorator;
+package cn.xeblog.design.patterns.decorator.code;
 
 /**
  * cf游戏服务接口
